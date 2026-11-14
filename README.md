@@ -1,8 +1,6 @@
-# OpenPreprint Kit — first technical report
+# OpenPreprint Kit: GitHub上の論文・研究データを検証可能にする公開キット — 実運用評価（v2）
 
-Author display name: Unjuno. Manuscript: CC BY 4.0. Unreviewed preprint.
-The paper PDF and source Markdown are CC-BY-4.0; analysis code and engineering data retain MIT. See supplements/LICENSE-NOTICE.txt and research-assets.yaml for per-file rights.
-
-Recompute the fixed baseline: `python analysis/summarize_ci.py`. Use the versioned Release assets, not this editable README, for verification.
+Author: Unjuno. Version: v2. License: CC-BY-4.0. Unreviewed preprint.
+Unreviewed; timestamps do not prove authorship, scientific truth, first publication or peer review.
+Verify the versioned Release assets (manifest.json + SHA256SUMS), not this editable README.
 Verification tools: https://github.com/Unjuno/openpreprint-kit
-Timestamps do not prove authorship, scientific truth, first publication, or peer review.
