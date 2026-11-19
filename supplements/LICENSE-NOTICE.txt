@@ -1,8 +1,10 @@
-First-paper manuscript (paper.md and its rendered PDF): CC BY 4.0.
-Display author: Unjuno. User confirmed this by conversation on 2026-11-13.
-This is a record of the requested publication metadata, not a cryptographically
-signed identity, copyright ownership, affiliation or peer-review attestation.
-New analysis scripts: MIT, as in the toolkit LICENSE.
-Retained test log: generated from the cited MIT-licensed project; keep attribution.
-The manuscript is not a GitHub immutable Release until the publish gate passes.
-No medical originals, private HMAC keys or private signing keys are included.
+# 御覧専用ライセンス通知（資産別、CC BY 4.0／コード・データはMIT相当）
+
+本稿（OpenPreprint Kit 実運用評価 v2）は AI 支援で作成した未査読の候補であり、公開の可否は所有者が決定する。
+
+- 本文・原稿・画像（pdfの出力変換を含む）: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- 解析コード・集計スクリプト: MIT License
+- データ（JSON/CSV）: CC BY 4.0
+- 第1論文v1の公開済み資産（Unjuno/openpreprint-kit-paper Release v1）: 変更せず、そのまま再頒布可能（CC BY 4.0）
+
+公開前に Unjuno 所有者の承認が必要。本通知は公開を許可するものではない。
